@@ -4,7 +4,7 @@
 
 - Tên nhóm: Nhóm 11
 - Lớp: CNTT_17-09
-- Thành viên:Nguyễn Ánh Dương 
+- Thành viên:Nguyễn Ánh Dương,Ngô Sỹ Kiệt,Đỗ Quốc Anh
 - Service nhóm phụ trách:IOT Ingestion
 - Sản phẩm tổng thể của lớp:
 
